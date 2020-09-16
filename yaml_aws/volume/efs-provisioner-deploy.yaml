@@ -18,7 +18,7 @@ spec:
           image: quay.io/external_storage/efs-provisioner:latest
           env:
             - name: FILE_SYSTEM_ID
-              value: fsmt-70b33a51
+              value: fs-27564906
             - name: AWS_REGION
               value: ap-northeast-1
             - name: PROVISIONER_NAME
